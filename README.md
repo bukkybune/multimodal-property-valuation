@@ -65,7 +65,7 @@ multimodal-property-valuation/
 |-------|---------|------|-----|----|
 | Tabular-only MLP | Ames Housing | $66,129 | $44,145 | 0.393 |
 | Image-only ViT-B/16 | Houses Dataset | $317,932 | $223,730 | 0.154 |
-| Multimodal Fusion | Houses Dataset | TBD | TBD | TBD |
+| Multimodal Fusion | Houses Dataset | $267,434 | $201,047 | 0.401 |
 
 > Note: The tabular baseline uses a different dataset than the image and multimodal models. Direct cross-dataset metric comparison should be interpreted with this distinction in mind. The primary controlled comparison is between the image-only and multimodal models, both trained on identical data splits of the Houses Dataset.
 
